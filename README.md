@@ -25,5 +25,3 @@ Usage Instructions:
     Open the “Language” menu in Notepad++
     
     Scroll to the bottom where you should now see “Spice” as a menu option, and click it
-    
-    Begin typing in the go programming language
