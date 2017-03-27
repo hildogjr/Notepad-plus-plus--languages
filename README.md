@@ -1,4 +1,4 @@
-Notepad++ Spice Language Syntax Highlighting
+# Spice Language Syntax Highlighting on Notepad++
 
 This is a user-defined language configuration for Spice Circuit Description language.
 
