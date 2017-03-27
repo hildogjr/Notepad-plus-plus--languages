@@ -1,4 +1,5 @@
 <NotepadPlus>
+    <!-- Author Hildo Guillardi Júnior (c) 2015 -->
     <UserLang name="Spice" ext="lib cir mod" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
